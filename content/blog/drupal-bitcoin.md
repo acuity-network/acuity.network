@@ -32,15 +32,15 @@ Almost everything we do on the web will work better with autonomous blockchain t
 <li>triggers a hook when a Bitcoin transaction is detected</li>
 <li>provides a full UI for browsing transactions and sending and receiving bitcoin</li>
 </ul><p><img height="119" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/toolbar.png" width="269"></p>
-<p><img height="399" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/transaction-browser.png" width="633"></p>
-<p><img height="399" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/transaction.png" width="633"></p>
-<p><img height="386" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/send-bitcoin.png" width="633"></p>
-<p><img height="379" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/receive-bitcoin.png" width="633"></p>
+<p><img height="399" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/transaction-browser.png" width="633" style="width: 100%; height: auto;"></p>
+<p><img height="399" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/transaction.png" width="633" style="width: 100%; height: auto;"></p>
+<p><img height="386" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/send-bitcoin.png" width="633" style="width: 100%; height: auto;"></p>
+<p><img height="379" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/receive-bitcoin.png" width="633" style="width: 100%; height: auto;"></p>
 <p>I am currently working on a full implementation of <a href="https://web.archive.org/web/20181114005136/https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki" target="_blank">BIP 70</a> which provides a much improved payment experience for the customer. Then I will add integration with <a href="https://web.archive.org/web/20181114005136/https://www.drupal.org/project/payment" target="_blank">Payment</a> / <a href="https://web.archive.org/web/20181114005136/https://www.drupal.org/project/commerce" target="_blank">Commerce</a>. This means it will be possible to receive payments in Commerce without using a third party payment processor.</p>
 <h1>Coins Tools Fiat</h1>
 <ul><li>obtains bitcoin exchange rates from <a href="https://web.archive.org/web/20181114005136/https://bitcoinaverage.com/" target="_blank">BitcoinAverage</a> (which I consider to be the gold standard), falling back to <a href="https://web.archive.org/web/20181114005136/https://bitpay.com/bitcoin-exchange-rates" target="_blank">BitPay BBB</a></li>
 <li>facilitates rendering of fiat amounts</li>
 <li>user can select preferred fiat currency</li>
 <li>current bitcoin value block</li>
-</ul><p><img height="352" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/exchange-rates.png" width="633"></p>
+</ul><p><img height="352" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/exchange-rates.png" width="633" style="width: 100%; height: auto;"></p>
 <p><img height="47" src="https://web.archive.org/web/20181114005136im_/http://jonathanpatrick.me/bitcoin-images/block.png" width="240"></p>
