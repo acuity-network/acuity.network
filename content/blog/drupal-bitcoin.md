@@ -1,6 +1,6 @@
 +++
-title = "Drupal & Bitcoin "
-description = 'Originally published on jonathanpatrick.me. '
+title = "Drupal & Bitcoin"
+description = 'Originally published on jonathanpatrick.me.'
 date = 2014-09-15
 draft = false
 template = "blog/page.html"
