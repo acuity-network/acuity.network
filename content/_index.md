@@ -4,7 +4,7 @@ title = "Acuity"
 
 # The homepage contents
 [extra]
-lead = '<b>/əˈkjuːɪti/</b>, noun: Acuteness of vision or perception. The ability to hear, see, or think accurately and clearly.'
+lead = '<b>/əˈkjuːɪti/</b>, noun: Acuteness of vision or perception. The ability to hear, see, or think accurately and clearly. On-chain Content Web'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = ""
@@ -25,23 +25,27 @@ url = "/blog/"
 weight = 20
 
 [[extra.list]]
-title = "Acuity Index"
-content = 'A fully decentralized, multi-chain, multi-key event index. Query results can be proven by light client.<br /><a href="https://index.acuity.network/">Learn more →</a>'
+title = "Index Network"
+content = 'Facilitates rich functionality: state-proofs, search, publishing, mempool querying, AI, media transcoding, config storage. Index providers are standardized so users can switch any time.'
 
 [[extra.list]]
-title = "Acuity Exchange"
-content = 'A fully decentralized, autonomous, cross-chain, atomic swap cryptocurrency exchange.<br /><a href="https://acuity.exchange/">Learn more →</a>'
+title = "Enshittification-proof"
+content = 'Unlike Web 2.0 that is deteriorating before our eyes, no one is in charge of Acuity. It can be extended by anyone in anyway they want. APIs are permanent.'
 
 [[extra.list]]
-title = "Acuity Social"
-content = 'The original goal of the project, fully decentralized, unstoppable publication.<br /><a href="https://acuity.social/">Learn more →</a>'
+title = "IPFS"
+content = 'Content is published via IPFS and pinned by index providers. IPFS hashes of content revisions are emited to the event log.'
 
 [[extra.list]]
-title = "Built with Substrate"
-content = '<a href="https://substrate.io/">Substrate</a> is the most advanced federated blockchain framework.'
+title = "Massive Scalability"
+content = 'Native content chains built on Polkadot with minimal state provides highest transaction throughput possible.'
+
+[[extra.list]]
+title = "Real Neutrality"
+content = 'Anyone can develop their own filter bubble or algorithim.'
 
 [[extra.list]]
 title = "No Debasement"
-content = "Unlike all other cryptocurrencies, ACU is actively protected by its community from becoming fractional reserve."
+content = "To prevent debasement and the associated downward price pressure ACU will only be listed on decentralized exchanges, starting with Hydration."
 
 +++
