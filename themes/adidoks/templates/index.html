@@ -33,11 +33,10 @@
         <div class="col-lg-9 col-xl-8 text-center">
           <p class="lead">{{ section.extra.lead | default(value="Please start setting config.toml and adding your
             content.") | safe }}</p>
-          <img src="/acuity-logo.svg" alt="Acuity logo" contain height="200" width="200" id="acuity-animation"></img>
+          <div><img src="/acuity-logo.svg" alt="Acuity logo" contain height="200" width="200"
+              id="acuity-animation"></img></div>
           <!-- <div style="color: #3cc3db; font-family: Raleway; text-align: center; font-size: 24px;"> -->
           <!-- message <span class="blink-me">|</span> -->
-        </div>
-        <div class="col-lg-9 col-xl-8 text-center">
           <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ get_url(path=section.extra.url | default(value=" /")) |
             safe }}" role="button">{{ section.extra.url_button | default(value="Get started") }}</a>
           <p class="meta">{{ section.extra.repo_license | default(value="MIT")}} <a
