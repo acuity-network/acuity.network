@@ -11,7 +11,7 @@ authors = ["Jonathan Brown"]
 [extra]
 +++
 
-*Originally published at https://medium.com/mix-blockchain/blobstore-immutable-storage-on-ethereum-blockchains-8663304cd087*
+*Originally published at [medium.com](https://medium.com/mix-blockchain/blobstore-immutable-storage-on-ethereum-blockchains-8663304cd087)*
 
 <p>Update: BlobStore is now called <a href="https://docs.mix-blockchain.org/en/latest/item_store.html" target="_blank">Item Store</a>.</p>
 

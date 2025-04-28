@@ -13,7 +13,8 @@ authors = ["Jonathan Brown"]
 
 Retrieved from the [Wayback Machine](https://web.archive.org/web/20181015023339/http://jonathanpatrick.me/blog/bitcoin-ecommerce).
 
-<p><img src="https://web.archive.org/web/20181015023339im_/http://jonathanpatrick.me/bitcoin-ecommerce-images/bitcoin-accepted-here.png" width="720" height="275" style="width: 100%; height: auto;"></p>
+<img src="/blog/bitcoin-accepted-here.png" width="720" height="275" style="width: 100%; height: auto;">
+
 <p>When configuring an e-commerce website to accept Bitcoin, it is important to be aware of the extra security considerations relating to private keys. Each payment needs its own Bitcoin address so these need to be readily available on the system providing the e-commerce functionality. This is not true of the private keys. Unless payments need to be made in an automated manner in response to user actions on the website, the wallet that holds them can be stored in a much more secure environment. This can make it significantly harder for a hacker to steal the funds.</p>
 <p>There are various techniques to have a continuous supply of addresses for a wallet stored elsewhere:</p>
 <h2>Immediate forwarding to fixed address</h2>
