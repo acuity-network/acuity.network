@@ -1,6 +1,6 @@
 +++
 title = "Acuity Index"
-description = ''
+description = 'The theory behind disintermediation is that we replace our institutions with autonomous dapps so that people can interact with each other in a transparent, rules-based framework.'
 date = 2025-05-04
 draft = false
 template = "blog/page.html"
