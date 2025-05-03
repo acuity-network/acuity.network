@@ -4,7 +4,7 @@ title = "Acuity"
 
 # The homepage contents
 [extra]
-lead = '<b>/əˈkjuːɪti/</b>, noun: Acuteness of vision or perception. The ability to hear, see, or think accurately and clearly. On-chain Content Web'
+lead = '<b>/əˈkjuːɪti/</b>, noun: Acuteness of vision or perception. The ability to hear, see, or think accurately and clearly.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = ""
