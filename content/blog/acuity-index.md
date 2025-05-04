@@ -28,3 +28,5 @@ In the case of an airline DAO, those who control the backend will end up control
 Having a truely decentralized backend is not very practical. You could try to store all transaction history in state, but this is very expensive. Full text search, content recommendation and AI queries are inheritantly centralized - they require extensive resources such that only the most committed power user could run personally.
 
 The solution is to have a free market of rich backend providers that use a standardized API.
+
+I received 2 grants ([1](https://github.com/w3f/Grants-Program/blob/master/applications/hybrid.md),[2](https://github.com/w3f/Grants-Program/blob/master/applications/hybrid2.md)) from the [Web3 Foundation](https://grants.web3.foundation/) to develop an event indexer for Polkadot blockchains. This has now been renamed to [Acuity Index](https://index.acuity.social/) and will serve as the basis for a free market of indexing nodes for Acuity.
