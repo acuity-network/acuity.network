@@ -14,7 +14,7 @@ toc = true
 top = false
 +++
 
-A devastating problem that occured with the token of the original project (MIX) was that it was debased by a centralized exchange between 2019 and 2020, ultimately crashing the price to 0 in May 2020.
+A devastating problem that occurred with the token of the original project (MIX) was that it was debased by a centralized exchange between 2019 and 2020, ultimately crashing the price to 0 in May 2020.
 
 Something that is not understood by almost everyone is that once a fungible asset has been listed on a centralized exchange, the operators of that exchange have the technical ability to create extra currency simply by editing their database.
 

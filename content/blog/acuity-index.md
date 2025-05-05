@@ -1,7 +1,7 @@
 +++
 title = "Acuity Index"
 description = 'The theory behind disintermediation is that we replace our institutions with autonomous dapps so that people can interact with each other in a transparent, rules-based framework.'
-date = 2025-05-04
+date = 2025-05-05
 draft = false
 template = "blog/page.html"
 
@@ -13,7 +13,7 @@ authors = ["Jonathan Brown"]
 
 The theory behind disintermediation is that we replace our institutions with autonomous dapps so that people can interact with each other in a transparent, rules-based framework.
 
-For example, imagine an airline that is a DAO. Token holders can discuss and vote on governace decisions. Naturally they will have many differing opinions on how the airline should be run. In order to convice others how to vote, very complex discussions will need to happen in public. This transparency will help to eradicate corruption.
+For example, imagine an airline that is a DAO. Token holders can discuss and vote on governance decisions. Naturally they will have many differing opinions on how the airline should be run. In order to convice others how to vote, very complex discussions will need to happen in public. This transparency will help to eradicate corruption.
 
 A not-for-profit company can be set up with a constitution that states that it is to obey the will of the DAO. The company can own real world items (like airplanes) and make contracts with other off-chain entities (for example an airport or a catering company).
 

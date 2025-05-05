@@ -20,7 +20,7 @@ However what has now become clear is that moderation of shared community spaces 
 
 Futhermore, moderation needs to be consistent. Community members are taught the rules by enforcement. There must be a shared understanding of what is acceptable and what the repurcussions are for breaking the rules.
 
-The "offical" shared space is the [Acuity Discourse](https://discourse.acuity.network/). One of the key rules of this space is that discussion of the ACU price is not permitted.
+The "offical" shared space will be the Acuity Discourse. One of the key rules of this space is that discussion of the ACU price is not permitted.
 
 Anyone can create an unofficial shared space with the Acuity name and whichever moderations rules they want.
 
