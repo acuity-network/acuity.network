@@ -14,7 +14,7 @@ toc = true
 top = false
 +++
 
-Social media has to a large degree taken over from publishing content on websites. There are a lot of good reasons for this. Having everyone together instead of on separate websites enables rich interactions and social networks to emerge. In many ways this has been an incredible tool for humanity, but it hasn't quite realized its potential. Major platforms have many issues that they are not intending to resolve properly. There is no point in blaming these platforms. The real issue is that we need social media to be decentralized so we can reclaim the Web - <a target="_blank" href="https://www.techdirt.com/articles/20150717/11191531671/protocols-instead-platforms-rethinking-reddit-twitter-moderation-free-speech.shtml">protocols instead of platforms</a>.
+Social media has to a large degree taken over from publishing content on websites. There are a lot of good reasons for this. Having everyone together instead of on separate websites enables rich interactions and social networks to emerge. In many ways this has been an incredible tool for humanity, but it hasn't quite realized its potential. Major platforms have many issues that they are not intending to resolve properly. There is no point in blaming these platforms. The real issue is that we need social media to be decentralized so we can reclaim the Web - <a target="_blank" href="https://www.techdirt.com/2015/07/17/protocols-instead-platforms-rethinking-reddit-twitter-moderation-free-speech/">protocols instead of platforms</a>.
 
 ## No backend
 

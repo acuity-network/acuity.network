@@ -39,7 +39,7 @@ Using the Democracy pallet the Acuity community can agree when to upgrade the bl
 
 ### WASM Smart Contracts
 
-The Substrate <a target="_blank" href="https://www.substrate.io/kb/smart-contracts">Contracts</a> pallet uses a WASM VM instead of the Ethereum VM. This greatly increases processing capacity.
+The Substrate Contracts pallet uses a WASM VM instead of the Ethereum VM. This greatly increases processing capacity.
 
 ## How did the migration happen?
 

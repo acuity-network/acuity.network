@@ -18,27 +18,13 @@ The Web is in decline due to [enshittification](https://en.wikipedia.org/wiki/En
 
 The underlying reason why enshittification occurs is because popular web platforms are owned and controlled by centralized organizations that ultimately do not do what is best for their users. Real blockchains on the other hand are either fully autonomous (never change), or are governed by a decentralized autonomous organization (DAO).
 
-However, dapps need rich functionality beyond what can be provided on-chain in a fully decentralized manner, for example:
-
-* searching data that is not stored in on-chain state
-* pinning / searching IPFS content
-* AI queries
-* media transcoding
-* querying unconfirmed transactions
-
-Currently dapps either utilize a centralized backend that will be subject to enshittification, or try to make do with only querying and verifying state directly.
-
-The purpose of Acuity Index is to provide decentralized indexing for dapps, starting with event log indexing for Polkadot blockchains.
-
-Acuity is a Web 3.0 replacement for the World Wide Web, in development since 2015.
+Acuity is a [Web3](https://en.wikipedia.org/wiki/Web3) replacement for the World Wide Web, in development since 2015.
 
 Perhaps the best analogy for Acuity is that it is an on-chain [Content Management System](https://en.wikipedia.org/wiki/Content_management_system). With a Web 2.0 CMS such as WordPress, the web browser is acting like a dumb terminal, rendering HTML and CSS. Wordpress understands the semantic meaning of the content, but the browser does not. There is no standized way to publish or query content on the Web because there are endless different backends that work in different ways.
 
 The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) attempted to fix this by adding extra information into the HTML to make it machine-readable, but the fundamental issue has not been resolved.
 
-With Acuity, users and content items are first-class items in a permissionless public database. This is key to 
-
-
+With Acuity, users and content items are first-class items in a permissionless public database.
 
 It is built with <a target="_blank" href="https://polkadot.com/">Polkadot</a> and <a target="_blank" href="https://ipfs.tech/">IPFS</a>. It is currently being migrated from its previous incarnation, <a target="_blank" href="https://medium.com/mix-blockchain">MIX</a> (an independent Ethereum blockchain).
 
@@ -50,8 +36,19 @@ On 1st September 2020 the Acuity <router-link to="/regenesis">Regenesis</router-
 
 Holders of MIX at the time of the snapshot can claim ACU 1:1. This process is identical to how participants in the Polkadot sale can claim their DOT and KSM. MIX holders have so far claimed over 60m ACU.
 
+## Acuity Index
 
+Dapps need rich functionality beyond what can be provided on-chain in a fully decentralized manner, for example:
 
+* searching data that is not stored in on-chain state
+* pinning / searching IPFS content
+* AI queries
+* media transcoding
+* querying unconfirmed transactions
+
+Currently dapps either utilize a centralized backend that will be subject to enshittification, or try to make do with only querying and verifying state directly.
+
+The purpose of [Acuity Index](https://index.acuity.network/) is to provide decentralized indexing for dapps, starting with event log indexing for Polkadot blockchains.
 
 ## Quick Start
 
