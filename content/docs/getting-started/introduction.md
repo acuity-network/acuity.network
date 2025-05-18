@@ -55,4 +55,4 @@ Holders of MIX at the time of the snapshot can claim ACU 1:1. This process is id
 
 ## Quick Start
 
-The Acuity blockchain can be accessed at [chains.acuity.social](https://chains.acuity.social)
+The Acuity blockchain can be accessed at [chains.acuity.network](https://chains.acuity.network)
