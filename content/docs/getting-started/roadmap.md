@@ -16,7 +16,7 @@ top = false
 
 ## Acuity Index
 
-Currently [Acuity Index](https://index.acuity.social/) can index Polkadot, Kusama, Westend and Paseo. A release needs to be made so that the Acuity blockchain can be indexed.
+Currently [Acuity Index](https://index.acuity.network/) can index Polkadot, Kusama, Westend and Paseo. A release needs to be made so that the Acuity blockchain can be indexed.
 
 ## Forum
 
